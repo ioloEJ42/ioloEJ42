@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I'm currently working on enhancing web application security through advanced steganography techniques<br>👯 I'm looking to collaborate on open-source React projects that prioritize performance and accessibility<br>🤝 I'm looking for help with optimizing machine learning models for cybersecurity applications<br>🌱 I'm currently learning advanced TypeScript patterns and diving deeper into Hugging Face's transformers<br>💬 Ask me about frontend development with React, building UI component libraries, or cybersecurity best practices
+# 🔭 Computer Liker
 
 
 ## 🌐 Socials:
