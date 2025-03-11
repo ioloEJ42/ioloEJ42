@@ -15,5 +15,3 @@ I love collaborating on new technologies and projects with others, so if you hav
 ---
 
 ![It Crowd Gif](./itCrowd.gif)
-
-[![Visits Badge](https://badges.pufler.dev/visits/ioloEJ42/ioloEJ42)](https://github.com/ioloEJ42/ioloEJ42)
